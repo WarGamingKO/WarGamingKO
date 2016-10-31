@@ -13,6 +13,26 @@
 *.dylib
 *.dll
 
+# Source Files
+*.cpp
+*.h
+*.c
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.ico
+*.rc
+*.rc2
+*.dsw
+*.ncb
+*.opt
+*.aps
+*.clw
+*.dsp
+*.txt
+*.sql
+
 # Fortran module files
 *.mod
 *.smod
@@ -27,3 +47,22 @@
 *.exe
 *.out
 *.app
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
