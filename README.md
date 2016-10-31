@@ -1,5 +1,5 @@
 # ![Icon](http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-35/32/Knight-Online-World-3-icon.png "KO") WarGamingKO
-Implementation of Knight Online Server Files 1.534, 
+Implementation of Knight Online Server Files 1.534, (Source Not Shared)
 
 * Release Date: ????/??/??
 
