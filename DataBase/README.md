@@ -2,7 +2,7 @@
 	
   Backups - SQL Server 2008R2	
 
-* Knight_Game.bak
+* KN_Online.bak
 
 # ODBC
 
