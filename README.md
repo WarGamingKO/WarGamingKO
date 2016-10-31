@@ -1,5 +1,3 @@
-# WarGamingKO
-
 # ![Icon](http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-35/32/Knight-Online-World-3-icon.png "KO") WarGamingKO
 Implementation of Knight Online Server Files 1.534, 
 
@@ -9,7 +7,7 @@ Implementation of Knight Online Server Files 1.534,
 
 #![Icon](https://cdn1.iconfinder.com/data/icons/hawcons/32/698392-icon-129-cloud-download-32.png "DW") [Download  las Releases](https://github.com/WarGamingKO/WarGamingKO/releases "Releases")
 
-#![Icon](https://cdn2.iconfinder.com/data/icons/ballicons-2-vol-2/100/picture-32.png "PIC") [Screenshots](https://www.facebook.com/WarGamingKO//photos "Album")
+#![Icon](https://cdn2.iconfinder.com/data/icons/ballicons-2-vol-2/100/picture-32.png "PIC") [Screenshots](https://www.facebook.com/WarGamingKO/photos "Album")
 
 #![Icon](https://cdn2.iconfinder.com/data/icons/social-18/512/Facebook-2-32.png "FB")   [Facebook Official](https://www.facebook.com/WarGamingKO/ "Facebook")
 
